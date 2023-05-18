@@ -1,0 +1,13 @@
+Linear Algorithm
+1. Linear Regression
+2. Ridge Regression
+3. LASSO Linear Regression
+4. Elastic Net Regression
+5. Gausian Regression
+
+Non-Linear Algorithm
+1. kNN
+2. CART
+3. SVM
+4. Random Forest
+5. Polynomial Regression
